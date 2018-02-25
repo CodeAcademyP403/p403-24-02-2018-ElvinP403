@@ -1,0 +1,42 @@
+
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;}
+a {text-decoration: none;}
+
+li {list-style-type: none;}
+
+ #main .outer {
+     text-align: center;
+     padding: 20px 30px; 
+ }
+ #main .outer >p{
+     margin: 40px 0px;
+ }
+ #main .outer h1{
+     text-align: center;
+     padding: 10px;
+     }
+ #main .outer h3{
+     margin-bottom: 40px;
+        }
+
+ #main .outer button{
+     font-size: 13px;   
+     box-sizing: 40px 100px;
+     color: black;
+     border: 1px solid black;
+     background: none;
+     padding: 8px 20px;
+     }
+
+     #main .outer h2{
+         margin: 30px;
+     }
+
+     #main .outer > div{
+         display: inline-block;
+         width: 40%;
+         margin: 5px;
+     }
