@@ -1,0 +1,41 @@
+/* *{
+    background-color: black;
+} */
+
+#main{
+    margin: 30px 150px;
+    padding-bottom: 25%;
+    background-color: gray;
+}
+
+#main > div{
+    text-align: center;
+    color: white;
+}
+
+#main .birinci h2{
+    padding-top: 4%;
+    margin-bottom: 17px;
+}
+
+#main .birinci p{
+    margin-top: 0px;
+    display: inline-block;
+    width: 80%;
+    }
+
+#main .ikinci p{
+    padding-top: 5px;
+    margin-top: 0px;
+    display: inline-block;
+    width: 90%;
+}
+
+#main .ikinci h3{
+    padding-bottom: 0px;
+    margin-top: 5%;
+} 
+#main .sekil{
+    height: 50%;
+    width: 50%;
+}
